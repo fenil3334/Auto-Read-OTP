@@ -1,0 +1,3 @@
+
+rootProject.name = "Auto Verify OTP Android"
+include ':app'
